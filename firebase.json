@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "april26chal",
+    "public": "public",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
